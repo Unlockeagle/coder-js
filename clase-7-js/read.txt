@@ -1,0 +1,11 @@
+// falta por hacer
+
+//1- El menu del programa
+//2- Añadir cosas a un carrito de compra
+//3- Un modulo de cargar productos en el inventario
+//4- Un modulo de venta que descuente al inventario
+y realice una factura
+
+//Se puede añadir una selector de usuario para que muestre
+diferentes opciones si del departamento de compras o del 
+departamento de ventas.
